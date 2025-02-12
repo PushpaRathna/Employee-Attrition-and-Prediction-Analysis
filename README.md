@@ -1,1 +1,2 @@
 # Employee-Attrition-and-Prediction-Analysis
+This project aims to analyze employee attrition and predict potential turnover using machine learning models. I utilized Logistic Regression and Decision Tree Classifier to build the predictive models. The dataset includes various employee attributes, and through these models, the project predicts the likelihood of an employee leaving the company. The goal is to help organizations identify at-risk employees and implement strategies to retain them.
